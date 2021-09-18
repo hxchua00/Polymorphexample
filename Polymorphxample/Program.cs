@@ -14,7 +14,7 @@ namespace Polymorphexample
 
 
 
-        public void printAll(string name, int age, string gender, )
+        public void printAll(string name, int age, string gender)
         {
             Console.WriteLine("Name: " + name);
             Console.WriteLine("Age: " + age);
